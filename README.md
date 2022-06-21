@@ -2,4 +2,4 @@
 Responsive Web app design using HTML and CSS
 
 
-https://github.com/G-V-Utong/responsive-web-app/main
+https://github.com/G-V-Utong/responsive-web-app/find/main
