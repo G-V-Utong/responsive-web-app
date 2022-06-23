@@ -2,4 +2,5 @@
 Responsive Web app design using HTML and CSS
 
 
-https://github.com/G-V-Utong/responsive-web-app/find/main
+# Link to Hoste Page
+https://g-v-utong.github.io/responsive-web-app/
